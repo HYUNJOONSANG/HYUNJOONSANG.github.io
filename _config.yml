@@ -5,8 +5,8 @@ gems:
 
 # Site settings
 title: "HJ's Data science story"
-description: > # this means to ignore newlines until "email:"
-   dreaming data scientist
+description: dreaming data scientist > # this means to ignore newlines until "email:"
+   
 
 email: hyunjoon.sang@gmail.com
 #blog logo
@@ -22,10 +22,10 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://hyunjoonsang.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
