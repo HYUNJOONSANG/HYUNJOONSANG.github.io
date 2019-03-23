@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "HJ's Data science story"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: hyunjoon.sang@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -34,22 +34,22 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon:	facebook
+    url:	https://www.facebook.com/hj.sang.90
+    desc: Connect with me facebook
+    share_url: 
+    share_title: 
+    share_link: 
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/hyunjoon-sang-profile/
+    desc: check my profile    
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/HYUNJOONSANG
     desc:	Fork me on github
     share_url:
     share_title:
