@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "HJ's Data science story"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   dreaming data scientist
 
 email: hyunjoon.sang@gmail.com
 #blog logo
