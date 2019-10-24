@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "HJ's Data science story"
+title: "딥준의 데이터 과학 이야기 (Deep Joon's Data science story)"
 description: dreaming data scientist > # this means to ignore newlines until "email:"
    
 
@@ -34,12 +34,6 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	facebook
-    url:	https://www.facebook.com/hj.sang.90
-    desc: Connect with me facebook
-    share_url: 
-    share_title: 
-    share_link: 
 
   - icon:	linkedin
     url:	https://www.linkedin.com/in/hyunjoon-sang-profile/
